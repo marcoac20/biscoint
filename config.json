@@ -1,0 +1,12 @@
+{
+  "apiKey": "558dd01c9473f5698ed2c25505e1014518d30fca4dd0eec28956ef1087fae744",
+  "apiSecret": "dd438e1e40d65be6007158ecfbf28f7af802d725696c323cb195c8ce2245f807",
+  "amount": 0.0039,
+  "amountCurrency": "BTC",
+  "initialBuy": false,
+  "minProfitPercent": 0.02,
+  "intervalSeconds": null,
+  "playSound": false,
+  "simulation": false,
+  "executeMissedSecondLeg": false
+}
